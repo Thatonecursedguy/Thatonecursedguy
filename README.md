@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I’m a software development student with a passion for game development and the creative process. I believe the beauty of art is not the result but the struggle, effort and emotion that is put into it. The humanity no machine can ever replace. After all, who would watch someone do a marathon in a car? I try to put as much of myself in everything I make and challenge myself doing so.
 <!--
 **Thatonecursedguy/Thatonecursedguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
